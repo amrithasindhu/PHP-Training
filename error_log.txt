@@ -1,0 +1,13 @@
+Error :[2] Undefined variable $studentname - C:\xampp\htdocs\PHP\errorhandling.php:16 
+Error :[2] Undefined variable $studentname - C:\xampp\htdocs\PHP\errorhandling.php:16 
+Error :[2] Undefined variable $studentname - C:\xampp\htdocs\PHP\errorhandling.php:16 
+Error :[2] Undefined variable $studentname - C:\xampp\htdocs\PHP\errorhandling.php:16 
+Error :[2] Undefined variable $studentname - C:\xampp\htdocs\PHP\errorhandling.php:16 
+Error :[2] Undefined variable $studentname - C:\xampp\htdocs\PHP\errorhandling.php:16 
+Error :[2] Undefined variable $studentname - C:\xampp\htdocs\PHP\errorhandling.php:16 
+Error :[2] Undefined variable $studentname - C:\xampp\htdocs\PHP\errorhandling.php:16 
+Error :[2] Undefined variable $studentname - C:\xampp\htdocs\PHP\errorhandling.php:16 
+Error :[2] Undefined variable $studentname - C:\xampp\htdocs\PHP\errorhandling.php:16 
+Error :[2] Undefined variable $studentname - C:\xampp\htdocs\PHP\errorhandling.php:16 
+Error :[2] Undefined variable $studentname - C:\xampp\htdocs\PHP\errorhandling.php:16 
+Error :[2] Undefined variable $studentname - C:\xampp\htdocs\PHP\errorhandling.php:16 
