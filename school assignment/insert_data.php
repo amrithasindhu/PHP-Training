@@ -24,13 +24,12 @@ if ($_SERVER['REQUEST_METHOD'] == "POST" && isset($_POST['add_students'])) {
     $email = $_POST["email"];
     $name = $_POST["name"];
     $class = $_POST['class'];
-    $gd_yr = $_POST['gd_yr'];
-
+    
     $studentname = '';
     $studentage = '';
     $studentclass = '';
     $studentemail = '';
-    $studentyr='';
+
     
     try {
  

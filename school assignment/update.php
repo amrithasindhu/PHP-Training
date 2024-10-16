@@ -24,14 +24,14 @@ if ($_SERVER['REQUEST_METHOD'] == "POST" && isset($_POST['update_student'])) {
     $email = $_POST["email"];
     $name = $_POST["name"];
     $class = $_POST['class'];
-    $gd_yr=$_POST['gd_yr'];
+
     
 
     $studentname = '';
     $studentage = '';
     $studentclass = '';
     $studentemail = '';
-    $studentgd='';
+
     $id = $_POST['id'] ?? null;
     
     try {

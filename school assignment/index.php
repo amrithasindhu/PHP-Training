@@ -19,7 +19,6 @@ Add Students
             <th>Age</th>
             <th>class</th>
             <th>Email</th>
-            <th>Graduation Year</th>
             <th>Update</th>
             <th>Delete</th>
 
@@ -36,7 +35,7 @@ Add Students
                     <td><?php echo htmlspecialchars($student['age']); ?></td>
                     <td><?php echo htmlspecialchars($student['class']); ?></td>
                     <td><?php echo htmlspecialchars($student['email']); ?></td>
-                    <td><?php echo htmlspecialchars($student['gd_yr']); ?></td>
+                
                     <td>
                        
                     <button type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#updateModal<?php echo $student['id']; ?>">
@@ -81,10 +80,7 @@ Add Students
                                                     <label for="email<?php echo $student['id']; ?>">Email</label>
                                                     <input type="email" name="email" class="form-control" placeholder="Email" value="<?php echo htmlspecialchars($student['email']); ?>" required>
                                                 </div>
-                                                <div class="form-group mb-3">
-                                                    <label for="gd_yr<?php echo $student['id']; ?>">Graduation Year</label>
-                                                    <input type="number" name="gd_yr" class="form-control" placeholder="Year" value="<?php echo htmlspecialchars($student['gd_yr']); ?>" required>
-                                                </div>
+                                          
                                             </div>
                                             <div class="modal-footer">
                                                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -156,9 +152,7 @@ Add Students
       <label for="name">Email</label>
     <input type="text" name="email" placeholder="Email"><br>
     </div>
-    <label for="gd_yr">gradutaion year</label>
-    <input type="number" name="gd_yr" placeholder="Graduation Year"><br>
-    </div>
+ 
 
         
       <div class="modal-footer">
