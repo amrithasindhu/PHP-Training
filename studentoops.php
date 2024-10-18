@@ -62,7 +62,7 @@ class humanitiesstudent implements student
 
     public function name($name)
     {
-       return $this->name=$name;
+       return $this->name=$name."   ".  "is a gud student";
     }
     public function address( $address )
     {
